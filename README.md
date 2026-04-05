@@ -1,7 +1,7 @@
 # PRD DE TIENDA AUTOMOTRIZ
 
 ## Problema
-Se nesesit mover los datos de los clientes de la automotriz para poder facilitar su visulizacion 
+Se nesesita mover los datos de los clientes de la automotriz para poder facilitar su visulizacion 
 debera contener El nombre, Especificaciones del carro fecha de cuando entrego el carro y que servicio utilizo de la compañia
 
 ## Solucion 
